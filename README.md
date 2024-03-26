@@ -1,5 +1,4 @@
 # Atividade Web I - Receita de Pamonha
 
 
-![Uploading pamonha.png…](l("ilustracao-de-pamonha-desenhada-a-mao_23-2150275164.png");
-)
+![pamonha](https://github.com/lunatloyolla/Projeto-Pamonha/assets/112090620/dbf6459d-a7c2-4283-9a4d-8beab0df25d8)
